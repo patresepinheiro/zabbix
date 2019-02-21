@@ -1,4 +1,4 @@
-# Desenvolvido por: Patrese Renan
+# Desenvolvido por: Patrese Pinheiro
 # Programa: CountSitePerPool - IIS 6
 # Versão: 1.0.0 
 # Criação: 1.0.0 19/02/2018 (Script Básico)
